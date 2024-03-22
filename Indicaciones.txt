@@ -1,0 +1,8 @@
+00_sitio.html ===>   Live Server
+02_uploader ===>   PHP Server
+03_Drag-and-Drop ===>   PHP Server
+04_form ===>   Live Server
+05_form-php ===>   PHP Server
+06_stripe_checkout ===>   Live Server
+
+SPA ===> Live Server
